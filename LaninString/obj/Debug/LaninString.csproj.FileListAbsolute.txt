@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\LaninString\LaninString\bin\Debug\LaninString.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LaninString\LaninString\bin\Debug\LaninString.exe
+c:\users\user\documents\visual studio 2015\Projects\LaninString\LaninString\bin\Debug\LaninString.pdb
+c:\users\user\documents\visual studio 2015\Projects\LaninString\LaninString\obj\Debug\LaninString.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LaninString\LaninString\obj\Debug\LaninString.exe
+c:\users\user\documents\visual studio 2015\Projects\LaninString\LaninString\obj\Debug\LaninString.pdb
